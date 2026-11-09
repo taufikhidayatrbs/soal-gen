@@ -1,0 +1,6 @@
+{
+  "name": "EduGen AI - Generator Soal & Bank Soal Guru",
+  "description": "Aplikasi generator soal otomatis berbasis AI untuk guru dengan Kurikulum Merdeka/K13, distribusi kesukaran persentase, bank soal interaktif, serta ekspor Word (.docx) dan PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
